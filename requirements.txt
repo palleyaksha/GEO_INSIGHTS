@@ -1,1 +1,10 @@
-import pandas numpy seaborn matplotlib folium geopy scikit-learn scipy minisom requests
+pandas
+numpy
+seaborn
+matplotlib
+folium
+geopy
+scikit-learn
+scipy
+minisom
+requests

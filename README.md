@@ -41,20 +41,20 @@ GeoInsights is a geospatial data analysis project that utilizes clustering and m
 ## Output Screens
 
 ### 1. Boxplot of Data Distribution
-![Boxplot](screenshots/boxplot.png)
+
 
 ![image](https://github.com/user-attachments/assets/b6616d0f-4975-4879-b2be-5baeeede9d17)
 
 
 ### 2. The Elbow Method for Optimal Clustering
-![Elbow Method](screenshots/elbow_method.png)
+
 
 
 ![image](https://github.com/user-attachments/assets/3177ecc9-cf11-4e9c-a23a-e4a816ca1731)
 
 
 ### 3. Clustered Map Visualization
-![Clustered Map](screenshots/clustered_map.png)
+
 
 
 ![image](https://github.com/user-attachments/assets/190a2e24-7034-4413-abf4-1f3f1c9396fc)
